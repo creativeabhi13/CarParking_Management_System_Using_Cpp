@@ -15,7 +15,7 @@ The Project will cover the
 
 Designing of Car Parking Management System Using C++
 
-The course is designed for Freshers and professionals who need to meet the capabilities of the C++. Through the video lectures you'll learn the usage of C++ Step by step and also design one small project with the help of C++
+
 
 Major Topics use in C++
 
@@ -42,8 +42,6 @@ All you need for work on different functions of C++ and feel confident with ever
 
 • Designed to help beginners get started
 • Lessons start right at the very beginning
-• Progresses slowly with more than 20 helpful videos
-• A big 2 hours 39 Minutes of expert instruction
 • Learn How to Work in C++
 • Master the most common uses of C++
 
@@ -60,8 +58,6 @@ This course is just what you want for being confident with C++ in the workplace.
 
 At the end of the project user is able to design and save the enter Vechile details in C++. Now you can become a master at using one of the world's most popular computer applications – C++ Programming.
 
-Who is the target audience?
-• Anyone new to C++ Progamming or having basic working knowledge of Progamming Language.
-What you’ll learn
 
-    You will able to create a small car parking management system using C++
+
+                                            You will able to create a small car parking management system using C++
